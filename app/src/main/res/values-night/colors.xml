@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_app">#161311</color>
+    <color name="bg_panel">#221E1B</color>
+    <color name="bg_display">#1C1917</color>
+    <color name="btn_number">#2A2420</color>
+    <color name="btn_function">#332B26</color>
+    <color name="btn_operator">#4A2E26</color>
+    <color name="btn_equals">#E36B4A</color>
+    <color name="btn_clear">#3A2F2A</color>
+    <color name="btn_second">#3D322C</color>
+    <color name="text_primary">#F8F4F0</color>
+    <color name="text_secondary">#A89A90</color>
+    <color name="accent">#E36B4A</color>
+    <color name="ripple">#40FFFFFF</color>
+    <color name="stroke">#3A322C</color>
+    <color name="nav_bg">#1C1917</color>
+</resources>

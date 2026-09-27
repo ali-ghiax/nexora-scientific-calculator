@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexora</string>
+    <string name="settings">Settings</string>
+    <string name="about">ABOUT</string>
+    <string name="back">Back</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="developed_by">Developed by Muhammad Ali Ghias</string>
+    <string name="tagline">A smoother way to calculate.</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_history">History</string>
+    <string name="nav_whatif">What-if</string>
+    <string name="nav_settings">Settings</string>
+    <string name="search_calculations">Search calculations</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clear_history_q">Clear history?</string>
+    <string name="clear_history_msg">All saved calculations will be permanently deleted.</string>
+    <string name="history_empty">No saved calculations yet</string>
+    <string name="history_empty_sub">Your results will appear here after you press equals.</string>
+    <string name="copy_result">Copy result</string>
+    <string name="copied">Result copied</string>
+    <string name="history_cleared">History cleared</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="angle_mode">Angle mode</string>
+    <string name="angle_mode_sub">Use degrees or radians for trig functions</string>
+    <string name="haptic">Haptic feedback</string>
+    <string name="haptic_sub">Soft vibration when you tap a key</string>
+    <string name="scientific">Scientific calculations</string>
+    <string name="scientific_sub">Show advanced functions on the keypad</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="dark_theme_sub">Use a darker, low-glare look</string>
+    <string name="degrees">Degrees</string>
+    <string name="radians">Radians</string>
+    <string name="whatif_title">Live What-if</string>
+    <string name="whatif_sub">Write an expression with x, then adjust the variable.</string>
+    <string name="expression_hint">Try 2x + 5</string>
+    <string name="adjust_variable">ADJUST VARIABLE</string>
+    <string name="original_x">x</string>
+    <string name="save_to_history">Save to History</string>
+    <string name="reset_whatif">Reset</string>
+    <string name="result">Result</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
